@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Oswald";
+  src: url("Oswald-Regular.eot");
+  src: url("Oswald-Regular.eot?#iefix") format("embedded-opentype"),
+    url("Oswald-Regular.woff2") format("woff2"),
+    url("Oswald-Regular.woff") format("woff"),
+    url("Oswald-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Oswald";
+  src: url("Oswald-Light.eot");
+  src: url("Oswald-Light.eot?#iefix") format("embedded-opentype"),
+    url("Oswald-Light.woff2") format("woff2"),
+    url("Oswald-Light.woff") format("woff"),
+    url("Oswald-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Oswald";
+  src: url("Oswald-Bold.eot");
+  src: url("Oswald-Bold.eot?#iefix") format("embedded-opentype"),
+    url("Oswald-Bold.woff2") format("woff2"),
+    url("Oswald-Bold.woff") format("woff"),
+    url("Oswald-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lekton";
+  src: url("Lekton-Italic.eot");
+  src: url("Lekton-Italic.eot?#iefix") format("embedded-opentype"),
+    url("Lekton-Italic.woff2") format("woff2"),
+    url("Lekton-Italic.woff") format("woff"),
+    url("Lekton-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lekton";
+  src: url("Lekton-Bold.eot");
+  src: url("Lekton-Bold.eot?#iefix") format("embedded-opentype"),
+    url("Lekton-Bold.woff2") format("woff2"),
+    url("Lekton-Bold.woff") format("woff"),
+    url("Lekton-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lekton";
+  src: url("Lekton-Regular.eot");
+  src: url("Lekton-Regular.eot?#iefix") format("embedded-opentype"),
+    url("Lekton-Regular.woff2") format("woff2"),
+    url("Lekton-Regular.woff") format("woff"),
+    url("Lekton-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

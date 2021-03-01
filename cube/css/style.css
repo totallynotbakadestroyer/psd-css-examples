@@ -1,0 +1,103 @@
+h1 {
+  font-size: 2rem;
+  font-family: "Oswald", serif;
+  text-transform: uppercase;
+  line-height: 0.8;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-family: "Lekton", serif;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 1rem;
+  font-family: "Lekton", serif;
+}
+
+.title {
+  font-family: "Lekton", serif;
+  margin-bottom: 45px;
+}
+
+b {
+  font-family: "Lekton", serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.button {
+  padding: 0.5rem 2.5rem;
+  background-color: transparent;
+  border: #9a977a 1px solid;
+  color: white;
+  text-transform: uppercase;
+  font-family: "Lekton", serif;
+  font-size: 0.9rem;
+}
+
+header {
+  height: 500px;
+  display: flex;
+}
+header .header__left {
+  flex: 1;
+  background-color: #f0d93e;
+  color: #46b4b4;
+}
+header .header__left .left__social {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 135px;
+}
+header .header__left .left__social svg {
+  margin-left: 0.5rem;
+  font-size: 1rem;
+}
+header .header__left .left__social span {
+  font-size: 0.9rem;
+  font-family: "Lekton", serif;
+}
+header .header__left .left__slogan {
+  margin-top: 115px;
+}
+header .header__left .left__logo {
+  margin-bottom: 15px;
+}
+header .header__right {
+  background-color: #c8c2b2;
+  color: white;
+  text-transform: uppercase;
+  flex: 1;
+  z-index: 2;
+  position: relative;
+}
+header .header__right h2 {
+  color: #848484;
+}
+header .header__right .color {
+  color: #fdeecf;
+}
+header .header__right p {
+  margin-bottom: 0;
+}
+
+.about {
+  padding: 180px 0 200px 0;
+}
+.about .about__container {
+  margin-bottom: 180px;
+}
+.about li {
+  list-style: none;
+  margin-right: 30px;
+}
+.about li:before {
+  content: "";
+  border-left: 6px solid #46b4b4;
+  padding-right: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
